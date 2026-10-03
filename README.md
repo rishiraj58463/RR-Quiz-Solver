@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="icons/icon128.png" width="92" alt="RR Quiz Solver icon" />
+<img src="icons/icon128.png" width="90" alt="Coursera Solver Logo" />
+
+Demo Video = (https://www.youtube.com/watch?v=Ud43NpEMtMY&t)
 
 # <span style="color:#A78BFA">RR Quiz Solver</span>
 
@@ -11,12 +13,10 @@ AI-assisted quiz support · Course activity shortcuts · Simple API setup
 
 <br/>
 
-<a href="https://github.com/rishiraj58463/RR-Quiz-Solver">
-  <img src="https://img.shields.io/badge/GitHub-Repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" />
-</a>
-<img src="https://img.shields.io/badge/Chrome-Extension-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome extension" />
-<img src="https://img.shields.io/badge/AI-Groq%20%2B%20Gemini-A78BFA?style=for-the-badge" alt="Groq and Gemini" />
-
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4c8bf5?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com//rishiraj58463/RR-Quiz-Solver)
+[![Status](https://img.shields.io/badge/Status-Working-10b981?style=flat-square)](https://quizsolver.infinityfreeapp.com/coursera_license/status.php)
+[![ AI](https://img.shields.io/badge/Powered%20by-Gemini,Groq%20AI-a855f7?style=flat-square)](https://console.groq.com)
+[![Stars](https://img.shields.io/github/stars//rishiraj58463/RR-Quiz-Solver?style=flat-square&color=fbbf24)](https://github.com//rishiraj58463/RR-Quiz-Solver/stargazers)
 <br/><br/>
 
 **Built by Rishi Raj**
@@ -243,8 +243,3 @@ Use the extension only where permitted. Review AI-generated answers carefully an
 <a href="https://github.com/rishiraj58463/RR-Quiz-Solver">Explore the repository ↗</a>
 
 </div>
-'''
-
-path = Path("/mnt/data/README-aesthetic.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created {path} — {len(content.splitlines())} lines, {path.stat().st_size:,} bytes")
