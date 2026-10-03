@@ -3,7 +3,7 @@
 
 <img src="icons/icon128.png" width="90" alt="Coursera Solver Logo" />
 
-Demo Video = (https://www.youtube.com/watch?v=Ud43NpEMtMY&t)
+Demo Video = (Video will be uploded after some time.)
 
 # <span style="color:#A78BFA">RR Quiz Solver</span>
 
