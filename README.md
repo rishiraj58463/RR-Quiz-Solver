@@ -16,7 +16,8 @@ AI-assisted quiz support · Course activity shortcuts · Simple API setup
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4c8bf5?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com//rishiraj58463/RR-Quiz-Solver)
 [![Status](https://img.shields.io/badge/Status-Working-10b981?style=flat-square)](https://quizsolver.infinityfreeapp.com/coursera_license/status.php)
 [![ AI](https://img.shields.io/badge/Powered%20by-Gemini,Groq%20AI-a855f7?style=flat-square)](https://console.groq.com)
-[![Stars](https://img.shields.io/github/stars//rishiraj58463/RR-Quiz-Solver?style=flat-square&color=fbbf24)](https://github.com//rishiraj58463/RR-Quiz-Solver/stargazers)
+[![Stars](https://img.shields.io/github/stars/TobiX-Dev/Coursera-Automation-By-TobiX?style=flat-square&color=fbbf24)](https://github.com/rishiraj58463/RR-Quiz-Solver/stargazers)
+
 <br/><br/>
 
 **Built by Rishi Raj**
