@@ -1,6 +1,4 @@
-from pathlib import Path
 
-content = r'''<div align="center">
 
 <img src="icons/icon128.png" width="92" alt="RR Quiz Solver icon" />
 
